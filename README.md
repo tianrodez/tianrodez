@@ -10,12 +10,4 @@ Hi 👋. I'm a software developer interested in create awesome and useful softwa
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tianrodez/tianrodez/output/pacman-contribution-graph.svg">
 </picture>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tianrodez&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tianrodez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tianrodez&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tianrodez&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
